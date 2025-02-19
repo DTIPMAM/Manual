@@ -38,3 +38,11 @@ Siga o passo a passo após acessar o link: [https://sis.pmam.online/home](https:
 ![Imagem do Cadastro 6](img/imgCadastro06.jpg)
 ![Imagem do Cadastro 7](img/imgCadastro07.jpg)
 ![Imagem do Cadastro 8](img/imgCadastro08.jpg)
+
+### 3.2 Cadastro SISPMAM - Aplicativo
+
+![Imagem do Cadastro 9](img/imgCadastro09.jpg)
+![Imagem do Cadastro 10](img/imgCadastro10.jpg)
+![Imagem do Cadastro 11](img/imgCadastro11.jpg)
+![Imagem do Cadastro 12](img/imgCadastro12.jpg)
+![Imagem do Cadastro 13](img/imgCadastro13.jpg)
