@@ -30,4 +30,4 @@ O cadastro no SISPMAM é um processo simples. Basta seguir o passo a passo e as 
 
 Siga o passo a passo após acessar o link: [https://sis.pmam.online/home](https://sis.pmam.online/home)
 
-    ![Imagem do Cadastro](img/imgCadastro01.png)
+![Imagem do Cadastro](img/imgCadastro01.png) 
