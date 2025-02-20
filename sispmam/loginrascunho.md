@@ -91,6 +91,63 @@ Siga o passo a passo após acessar o link: [https://sis.pmam.online/home](https:
 
 ![Imagem de Cadastro 15](img/imgCadastroN15.jpg)
 
-
+---
 ### 3.2 Cadastro SISPMAM - Aplicativo 
+
+#### Passo 1: Baixe o aplicativo SISPMAM no Play Store.
+
+![Imagem de Cadastro 16](img/imgCadastroN16.jpg)
+
+#### Passo 2: Clique em Cadastrar.
+
+![Imagem de Cadastro 17](img/imgCadastroN17.jpg)
+
+#### Passo 3: Digite seu E-mail e CPF e clique no botão em Verificar.
+
+![Imagem de Cadastro 18](img/imgCadastroN18.jpg)
+
+#### Passo 4:
+Digite sua Senha e digite novamente no campo Confirmar senha, posteriormente clique no botão Cadastrar.
+
+O campo E-mail não precisa preencher, pois aparecerá preenchido em virtude do cadastro na tela anterior.
+
+A senha deve conter o seguinte padrão para todos os usuários: uma letra maiúscula, uma letra minúscula, um número, um caractere especial (como, por exemplo: @, !, #) e possuir um tamanho de, no mínimo, 6 (seis) dígitos.
+
+![Imagem de Cadastro 19](img/imgCadastroN19.jpg)
+
+#### Passo 5:
+Clique em OK.
+
+Acesse sua conta de e-mail, a cadastrada no SISPMAM e Comando Web, procure pelo e-mail da Polícia Militar do Amazonas, é possível que seja encaminhado para a sua caixa de spam ou lixo eletrônico, abra e siga as orientações.
+
+![Imagem de Cadastro 20](img/imgCadastroN20.jpg)
+
+#### Passo 6:
+Ao término das orientações enviadas para o e-mail, faça login digitando seu E-mail e Senha, em seguida clique em "Entrar".
+
+![Imagem de Cadastro 21](img/imgCadastroN21.jpg)
+
+#### Passo 7:
+Ao fazer seu primeiro login, seus dados já estarão preenchidos, exceto o campo data de nascimento e Cargo, complete seu cadastro. Não se esqueça de marcar as caixas para concordar com a política de privacidade e termos de uso. Ao concluir estará logado.
+
+![Imagem de Cadastro 22](img/imgCadastroN22.jpg)
+
+#### Passo 8: Na tela logada, para sair do aplicativo clique no botão “Sair”, confirme a sua ação para fazer logout.
+
+![Imagem de Cadastro 23](img/imgCadastroN23.jpg)
+
+![Imagem de Cadastro 24](img/imgCadastroN24.jpg)
+
+#### Passo 9: Redefinição de senha/ Recuperar senha - Todos os usuários do SISPMAM que não possuem o padrão de senha - uma letra maiúscula, uma letra minúscula, um número, um caractere especial e no mínimo, 6 (seis) dígitos - devem redefinir a senha. Digite seu e-mail e posteriormente clique no botão Recuperar senha e siga as instruções enviadas para o seu e-mail.
+
+![Imagem de Cadastro 25](img/imgCadastroN25.jpg)
+
+![Imagem de Cadastro 26](img/imgCadastroN26.jpg)
+
+
+
+
+
+
+
 
