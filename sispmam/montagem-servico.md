@@ -1,13 +1,13 @@
 # Manual de Montagem do Serviço
 
-Este documento descreve o processo de montagem do serviço no sistema. Siga as instruções abaixo para efetuar a escala de serviço.
-
 1. Introdução
 2. Configurações recomendadas
 3. Perfis de usuário
 4. Como acessar os módulos
-5. Funcionalidades
-6. Glossário
+5. Funcionalidades  
+5.1 Gerenciar efetivos  
+5.2 Mapa da força  
+5.3 Ações do módulo
 
 
 ## 1. Introdução
@@ -41,19 +41,10 @@ performance, sugerimos que mantenha o seu sistema operacional e navegador sempre
 
 ## 3. Perfis de usuário
 
-### P-3
+| Perfil | Atribuições |
+|--------|-------------|
+| OPM | Todo policial militar usuário do SISPMAM visualizará o módulo "ESCALAS DE SERVIÇO - MONTAGEM" de sua respectiva unidade. Permissão para realizar a montagem de serviço e enviar o relatório do mapa da força.|
 
-**Atribuições**:
-
-Visualiza os módulos Escalas de Serviço e Escalas de Serviço – Montagem. Permissão para
-criar, editar, atribuir e visualizar escalas de serviço, incluindo a definição de horários,
-designação de pessoal e acompanhamento da cobertura de área.
-
-### OPM
-
-**Atribuições**
-
-Todo policial militar usuário do SISPMAM visualizará o módulo Escalas de Serviço - Montagem de sua unidade. Permissão para realizar a montagem de serviço e enviar o relatório do mapa da força.
 
 ## 4. Como acessar os módulos
 
@@ -65,52 +56,19 @@ Para acessar os módulos escalas de serviço e escala de serviço - Montagem: ht
 
 **Passo 2:** Clique no Calendário para escolher a data da montagem de serviço.
 
-**Passo 3:** Clique no botão montar veículo motorizado.
+**5.1. Gerenciar efetivos**
 
-**Botões de ação:**
+**Passo 3.1:** Clique na seta de ações para visualizar o efetivo. Posteriormente clique no botão de marcação dos respectivos ausentes mudando o status de pronto para ausente. Confirme sua ação respondendo "NÃO ou SIM", a seguinte mensagem será exibida: 
+> >- [x] Status militar alterado com sucesso
 
+**Passo 3.2** Para a impressão ou Download em PDF da relação do efetivo, clique no botão imprimir.
 
+**5.2 Mapa da força**
 
-**Passo 4:** Clique no botão montar nova VTR.
+**Passo 4:** Clique na seta do "MENU ESCALAS" para visualizar as escalas de serviço das quais você foi habilitado para gerenciar, e clique no botão "MAPA DA FORÇA".
 
-**Passo 5:** 
+**Passo 5:** No primeiro campo digite o CPF ou C.I. e será exibido seus dados e contatos. Caso haja alguma observação digite no campo "Observações". Posteriormente clique no botão enviar.
 
-1. **Lista de modelos VTR:** selecione o modelo da viatura;
-2. **Lista de situações VTR:** selecione a situação da viatura;
-3. **Prefixos:** selecione o prefixo da viatura;
-4. **Lista de militares:** selecione os policiais militares que estarão alocados na referida viatura;
-5. **Ações:** defina quem será o comandante, motorista e patrulheiro da viatura;
-6. **Finalizar montagem:** clique para finalizar a montagem da referida viatura.
-- O botão **Adicionar VTR** será para casos excecionais em que a viatura não esteja listada.
-- O campo **Digite o CPF ou C.I. do militar** será para casos excecionais em que o policial militar não estiver na escala de serviço.
-
-Repita o processo conforme efetivo e viaturas disponíveis. 
-Se houver área de atuação ou setor, clique no botão **Adicionar setores** e siga as orientações do passo 6, caso contrário clique em **"Finalizar montagem"**.
-
-**Passo 6:**
-
-1. **Zonas:** selecione a zona de atuação na cidade;
-2. **OPM:** selecione a unidade de atuação;
-3. **Descrição:** descreva o perímetro de atuação;
-4. **Setor:** selecione o setor de atuação, caso houver;
-5. **Finalizar montagem:** clique para finalizar a montagem da referida viatura.
-
-Para apagar a montagem deve-se primeiro excluir o efetivo inserido na viatura.
-
-**Passo 7:**
-
-1. **Digite o CPF ou C.I do militar:** digite o CPF ou C.I do militar responsável pelo envio do mapa da força;
-2. **Telefone do S.A/Responsável:** ao confirmar o CPF ou C.I do militar responsável pelo envio do mapa da força, automaticamente será exibido o número de telefone conforme cadastrado no Comando Web.
-3. **Observações:** descreva a obeservação, caso houver. 
-4. **Enviar:** após o preenchimento dos dados do responsável pelo envio do mapa da força, clique no botão **"Enviar"**.
-
-## 6. Glossário
-
-| Termo/Sigla | Descrição        |
-|-------------|------------------|
-| Mtr./Pil.   | Motorista/Piloto |
-| Patr.       | Patrulheiro      |
------------------------------------
 
 Tranformar em PDF 
 
