@@ -1,4 +1,3 @@
-
 <style>
 
     img {
@@ -18,7 +17,6 @@
     }
 
 </style>
-
 # Manual Usuário do Sistema - Cadastro no SISPMAM 
 
 ## 1. Introdução
