@@ -1,7 +1,23 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="../node_modules/github-markdown-css/github-markdown-light.css">
 
-<article class="markdown-body">
+<style>
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+    }
+
+    * {
+        color: black !important;
+        background-color: white;
+    }
+
+    a {
+        color: blue !important;
+    }
+
+</style>
 
 # Manual Usuário do Sistema - Cadastro no SISPMAM 
 
@@ -171,7 +187,6 @@ Redefinição de senha/ Recuperar senha - Todos os usuários do SISPMAM que não
 
 ---
 
-</article>
 
 
 
