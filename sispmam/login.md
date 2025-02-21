@@ -7,16 +7,14 @@
     }
 
     * {
-  color: black !important;
-background-color: white;
+        color: black !important;
+        background-color: white;
     }
 
     a {
-  color: blue !important;
-}
-</style> 
-
-
+        color: blue !important;
+    }
+</style>
 
 # Manual Usuário do Sistema - Cadastro no SISPMAM 
 
