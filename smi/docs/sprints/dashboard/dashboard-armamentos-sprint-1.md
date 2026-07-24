@@ -38,9 +38,25 @@ foi mantido sem alterações funcionais e passou a ser acessado pela rota:
 
 A estrutura de navegação do módulo passou a seguir o fluxo:
 
-```text
 /home/admin/armamento
     ├── gerenciar
     ├── editar
     ├── armas-excluidas
     └── historico/:id
+
+
+# Melhorias identificadas
+
+## Para Sprint 2
+
+### Dashboard
+
+- Tornar os cards clicáveis.
+- Abrir Gerenciar Armamentos já filtrado.
+- Drill-down dos gráficos.
+- Navegação por fabricante.
+- Navegação por lotação.
+
+**Motivo**
+
+Melhoria identificada durante a homologação da Sprint 1.

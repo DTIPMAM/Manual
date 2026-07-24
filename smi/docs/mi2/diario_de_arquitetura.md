@@ -45,3 +45,21 @@ Toda auditoria possuirá:
 As auditorias poderão ser executadas independentemente da interface gráfica através do comando:
 
 php yii integridade/testar
+
+
+# 24/07/2026
+
+## Dashboard de Armamentos
+
+### Decisão:
+
+Os cards permanecerão apenas informativos na versão 1.
+
+Motivo:
+
+Priorizar homologação.
+
+Próxima evolução:
+
+Implementar Drill Down utilizando filtros automáticos na tela
+Gerenciar Armamentos.
